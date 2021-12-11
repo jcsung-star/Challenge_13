@@ -13,7 +13,7 @@ Columbia FinTech Bootcamp Assignment - Module 13
 ### Table of Contents
 * [Overview](#overview)
 * [Requirements](#requirements)
-* [Data Used](#data)
+* [Data Used](#data_used)
 * [Sample Visualization](#sample_visualization)
 * [License](#license)
 
