@@ -53,13 +53,13 @@ Install the following librarie(s) in your terminal...
 
 ---
 
-## Data Used
+## Data
 
 The data used in this neural network model was from derived from a CSV file called applicants_data.csv.:
 
 ---
 
-## Sample Visualization
+## Visualization
 
 Uploading and reading the .csv file
 ![readcsv](Images/read_csv.PNG)
