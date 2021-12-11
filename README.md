@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=200&section=header&text=Neural%20Network%20Model&fontSize=30&fontColor=black)
 
-
 <!-- header is made with: https://github.com/kyechan99/capsule-render -->
 
 [<img src="linkedin.com/in/john-sung-3675569
@@ -58,6 +57,21 @@ The data used in this neural network model was from derived from a CSV file call
 ---
 
 ## Sample Visualization
+
+Uploading and reading the .csv file
+![readcsv](Images/read_csv.PNG)
+
+Creating a OneHotEncoder instance
+![onehotencoder](Images/onehotencoder.PNG)
+
+Fitting the model using 100 epochs and the training data
+![fitmodel](Images/fit_model_100_epochs.PNG)
+
+Displaying the accuracy scores achieved by each model and comparing the results
+![three_models](Images/model_loss_model_accuracy_three_models.PNG)
+
+Saving alternative models as an HDF5 file.
+![altmodels](Images/alt_models_HDF5.PNG)
 
 ---
 
