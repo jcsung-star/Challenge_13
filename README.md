@@ -2,9 +2,9 @@
 
 <!-- header is made with: https://github.com/kyechan99/capsule-render -->
 
-[<img src="linkedin.com/in/john-sung-3675569
-" alt="LinkedIn -  John Sung" width=15/>](https://linkedin.com/in/john-sung-3675569)
+[John Sung](https://linkedin.com/in/john-sung-3675569) [<img src="https://cdn2.auth0.com/docs/media/connections/linkedin.png" alt="LinkedIn -  John Sung" width=15/>](https://linkedin.com/in/john-sung-3675569/)
 
+                                                             
 <br>
 Columbia FinTech Bootcamp Assignment - Module 13
 
