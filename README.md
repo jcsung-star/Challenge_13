@@ -10,7 +10,10 @@ Columbia FinTech Bootcamp Assignment - Module 13
 
 ---
 
+./gh-md-toc https://github.com/ekalinin/envirius/blob/master/README.md
+
 ### Table of Contents
+
 * [Overview](#overview)
 * [Requirements](#requirements)
 * [Data](#data)
